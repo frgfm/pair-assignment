@@ -1,8 +1,22 @@
 # Pair assignment
-This repository was made for pair assignments in constrained environements. 
+This repository was made for pair assignments in constrained environments. 
 Input is mostly considered as a symmetric cost matrix of shape N x N where N is the number of agents.
 
-## How to use the different objects
+
+
+## Installation
+
+This module was developed using only Python and numpy
+
+```bash
+git clone https://github.com/frgfm/pair-assignment.git
+cd pair-assignment
+pip install requirements.txt
+```
+
+
+
+## Usage
 
 If you prefer running the simulation directly without entering a shell:
 
