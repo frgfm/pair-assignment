@@ -37,6 +37,5 @@ def main():
     print('Approx method score: %s (computed in %s)' % (np.sum([cost_matrix[couple] for couple in ap_assignment]), datetime.now() - start_time))
 
 
-
 if __name__ == "__main__":
     main()

@@ -2,7 +2,6 @@
 
 '''
 These functions were developped to provide optimisation solutions for assignment problems
-
 '''
 
 __author__ = 'François-Guillaume Fernandez'
